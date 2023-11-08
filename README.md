@@ -5,7 +5,7 @@ skipPrompts: true
 
 # Envars
 
-```sh { name=envvar category=cat1 interactive=true }
+```sh { name=envvar id=01HEQJD2W7NC52ZHYMRDAGY289 category=cat1 interactive=true }
 $ export NEW_ENV=foo
 $ echo $NEW_ENV
 
