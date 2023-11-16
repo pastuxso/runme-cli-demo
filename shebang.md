@@ -4,6 +4,7 @@
 
 ```js
 console.log("Always bet on JS!")
+
 ```
 
 ## Python
@@ -13,4 +14,5 @@ def say_hello():
   print("Hello world from Python")
 
 say_hello()
+
 ```
