@@ -1,21 +1,21 @@
 ---
 runme:
   id: 01HGZZ742BM6RYJ8ZV19GETSVX
-  version: v2.0
+  version: v2.2
 ---
 
 # Shebang demo
 
 #### JavaScript
 
-```js {"id":"01HGZZ742BM6RYJ8ZV166Y3A4D","terminalRows":"2"}
+``` {"id":"01HGZZ742BM6RYJ8ZV166Y3A4D","terminalRows":"2"}
 console.log("Always bet on JS!, " + new Date())
 
 ```
 
 #### Python
 
-```python {"id":"01HG7EGG30W7YJNT6C083GVANW","terminalRows":"2"}
+``` {"id":"01HG7EGG30W7YJNT6C083GVANW","terminalRows":"2"}
 import datetime
 now = datetime.datetime.now()
 
@@ -26,17 +26,17 @@ say_hello()
 
 ```
 
-```sh {"id":"01HGZZ78EYK7EYPJQE7PQSGCK4"}
+``` {"id":"01HGZZ78EYK7EYPJQE7PQSGCK4"}
 echo 'Hello'
 
 ```
 
-```sh {"id":"01HGZZEK92WHGTDBNGD055T48B"}
+``` {"id":"01HGZZEK92WHGTDBNGD055T48B"}
 echo "World"
 
 ```
 
-```sh {"id":"01HGZZRJB8Q6VEJ9XKDHWNE4PJ"}
+``` {"id":"01HGZZRJB8Q6VEJ9XKDHWNE4PJ"}
 echo "From\tBash"
 
 ```
