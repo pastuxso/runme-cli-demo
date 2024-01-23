@@ -9,7 +9,7 @@ runme:
 #### JavaScript
 
 ```js {"id":"01HGZZ742BM6RYJ8ZV166Y3A4D","terminalRows":"2"}
-console.log("Always bet on JS!, " + new Date())
+console.log("Always bet on JS!, " + new Date().toISOString())
 
 ```
 
@@ -20,7 +20,7 @@ import datetime
 now = datetime.datetime.now()
 
 def say_hello():
-  print("Hello world from Python, " + now.strftime("%Y-%m-%d %H:%M:%S"))
+  print("Hello world from Python, " + now.isoformat(sep='T',timespec='auto'))
 
 say_hello()
 
