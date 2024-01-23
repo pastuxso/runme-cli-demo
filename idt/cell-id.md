@@ -6,8 +6,7 @@ runme:
 
 # Block code with existent
 
-``` {"id":"01HER3GA0RQKJETKK5X5PPRTB4"}
+```js {"id":"01HER3GA0RQKJETKK5X5PPRTB4"}
 console.log("Hello from JS")
 
 ```
-
