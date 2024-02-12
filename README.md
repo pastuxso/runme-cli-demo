@@ -1,7 +1,7 @@
 ---
 runme:
   id: 01HMCJW4EBNRTNYR2XH2MQ0WV4
-  version: v2.2
+  version: v2
 ---
 
 # I'm a README file

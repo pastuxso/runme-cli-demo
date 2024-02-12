@@ -1,7 +1,7 @@
 ---
 runme:
   id: 01HMCJRVF90ED0TXZ0B9XMHNT2
-  version: v2.2
+  version: v2
 ---
 
 # Block code with existent

@@ -1,7 +1,7 @@
 ---
 runme:
   id: 01HGZZ742BM6RYJ8ZV19GETSVX
-  version: v2.2
+  version: v2
 ---
 
 # Shebang demo
