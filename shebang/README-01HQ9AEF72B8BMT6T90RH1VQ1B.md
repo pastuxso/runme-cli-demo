@@ -2,6 +2,11 @@
 runme:
   id: 01HGZZ742BM6RYJ8ZV19GETSVX
   version: v3
+  document:
+    relativePath: README.md
+  session:
+    id: 01HQ9AEF72B8BMT6T90RH1VQ1B
+    updated: 2024-02-22 16:10:54-05:00
 ---
 
 # Shebang demo
@@ -24,4 +29,7 @@ def say_hello():
 
 say_hello()
 
+
+# Ran on 2024-02-22 16:09:57-05:00 for 278ms exited with 0
+Hello world from Python, 2024-02-22T16:09:57.680119
 ```
