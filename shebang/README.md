@@ -15,7 +15,7 @@ console.log("Always bet on JS!, All hands demo" + new Date().toISOString())
 
 #### Python
 
-```py {"id":"01HG7EGG30W7YJNT6C083GVANW","terminalRows":"2"}
+```py {"name":"demo-py","id":"01HG7EGG30W7YJNT6C083GVANW","terminalRows":"2"}
 import datetime
 now = datetime.datetime.now()
 
