@@ -22,7 +22,7 @@ echo "Foo"
 
 #### JavaScript
 
-```js {"id":"01HGZZ742BM6RYJ8ZV166Y3A4D","name":"demo-js","terminalRows":"2"}
+```js {"name":"demo-js","terminalRows":"2"}
 console.log("Always bet on JS!, " + new Date().toISOString())
 process.exit(1)
 ```
@@ -42,6 +42,6 @@ say_hello()
 
 ```
 
-```sh {"id":"01HS2BXNG3E17CDT1EFGDAMDR9"}
+```sh
 echo "File name"
 ```
