@@ -24,7 +24,7 @@ echo "Foo"
 
 ```js {"id":"01HGZZ742BM6RYJ8ZV166Y3A4D","name":"demo-js","terminalRows":"2"}
 console.log("Always bet on JS!, " + new Date().toISOString())
-exit(1)
+process.exit(1)
 ```
 
 #### Python
