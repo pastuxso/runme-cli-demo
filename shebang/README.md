@@ -6,7 +6,7 @@ runme:
 
 # Shebang demo
 
-```sh {"id":"01HS1Z2VGNR2XH04TPGKPT8ZH8"}
+```sh
 which runme
 which go
 ```
@@ -22,14 +22,14 @@ echo "Foo"
 
 #### JavaScript
 
-```js {"name":"demo-js","terminalRows":"2"}
+```js {"id":"01J1BQQKWHDE8MGM7R5PX6KHJV","name":"demo-js","terminalRows":"2"}
 console.log("Always bet on JS!, " + new Date().toISOString())
 process.exit(1)
 ```
 
 #### Python
 
-```python {"id":"01HG7EGG30W7YJNT6C083GVANW","interpreter":"/usr/bin/python","name":"demo-py","terminalRows":"2"}
+```python {"id":"01HG7EGG30W7YJNT6C083GVANW","interpreter":"/usr/bin/python3","name":"demo-py","terminalRows":"2"}
 import datetime
 import os
 
@@ -42,10 +42,10 @@ say_hello()
 
 ```
 
-```sh
+```sh {"id":"01J1BQQKWHDE8MGM7R5RY1VMMN"}
 echo "File name"
 ```
 
 ```sh
-echo "New Cell"
+echo "New Cell Identity 0"
 ```
