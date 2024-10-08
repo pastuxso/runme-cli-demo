@@ -6,30 +6,35 @@ runme:
 
 # Shebang demo
 
-```sh
+```sh {"id":"01J4HK8BGKHAKYYF8G36NKS455"}
 which runme
 which go
 ```
 
-```sh {"id":"01HRCNG3ZXPY76J98HEQ4JV4AR","interactive":"true","name":"export-vars","promptEnv":"auto","terminalRows":"3"}
+```sh {"category":"exports","id":"01J4HK8BGKHAKYYF8G38ZNTMB3","interactive":"true","interpreter":"","name":"export-vars","promptEnv":"auto","terminalRows":"3"}
 export DOG_NAME="Roscoe"
 export FOO_BAR="BAZ LOO"
 export NAKED="naked"
 export NEW_VAR="Here is a new var"
 export NEW_VAR2="new var 2"
 echo "Foo"
+echo $DOG_NAME
+```
+
+```sh {"id":"01J4HK8BGKHAKYYF8G3A7HBQ4C","interpreter":"pwsh"}
+echo $DOG_NAME
 ```
 
 #### JavaScript
 
-```js {"id":"01J1BQQKWHDE8MGM7R5PX6KHJV","name":"demo-js","terminalRows":"2"}
+```js {"excludeFromRunAll":"true","id":"01J4HK8BGKHAKYYF8G3CB017E7","name":"demo-js","terminalRows":"2"}
 console.log("Always bet on JS!, " + new Date().toISOString())
 process.exit(1)
 ```
 
 #### Python
 
-```python {"id":"01HG7EGG30W7YJNT6C083GVANW","interpreter":"/usr/bin/python3","name":"demo-py","terminalRows":"2"}
+```python {"id":"01J4HK8BGKHAKYYF8G3CTSAC4T","interpreter":"/usr/bin/python3","name":"demo-py","terminalRows":"2"}
 import datetime
 import os
 
@@ -42,10 +47,10 @@ say_hello()
 
 ```
 
-```sh {"id":"01J1BQQKWHDE8MGM7R5RY1VMMN"}
+```sh {"category":"exports","id":"01J4HK8BGKHAKYYF8G3DQD364S"}
 echo "File name"
 ```
 
-```sh
+```sh {"id":"01J4HK8BGKHAKYYF8G3FTDPRT0"}
 echo "New Cell Identity 0"
 ```
