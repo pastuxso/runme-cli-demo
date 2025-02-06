@@ -4,10 +4,9 @@ runme:
   version: v3
 ---
 
-# Sheband demo
+# Shebang demo
 
 ## Bash commands
-
 
 This cell demonstrates the use of the `which` command to locate the executables for `runme` and `go` in the system's PATH.
 
